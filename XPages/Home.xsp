@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xp:view xmlns:xp="http://www.ibm.com/xsp/core"
+	xmlns:bx="http://www.openntf.org/xsp/bootstrap"
+	xmlns:xe="http://www.ibm.com/xsp/coreex">
+
+	<xe:applicationLayout id="applicationLayout1">
+		<xe:this.configuration>
+			<bx:bootstrapApplication pageWidth="full"></bx:bootstrapApplication>
+		</xe:this.configuration>
+	</xe:applicationLayout></xp:view>
